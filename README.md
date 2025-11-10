@@ -1,0 +1,8 @@
+- iOS 16+ target, fully written in Swift
+- No external dependencies – uses only native Apple frameworks
+- Custom Dependency Injection (DI) system built from scratch
+- MVVM + Coordinator architecture for clean separation of concerns
+- Async/await used for networking and background operations
+- Service layer for clean and testable networking and business logic
+- Unit tests implemented for main features
+- Focused on clarity, testability, and scalability
